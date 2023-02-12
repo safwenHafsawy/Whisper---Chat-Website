@@ -1,5 +1,5 @@
 import React from 'react';
-import "./conversations_comp.scss";
+import "../components_styling/conversations_comp.scss";
 
 const Conversations = () => {
     return (

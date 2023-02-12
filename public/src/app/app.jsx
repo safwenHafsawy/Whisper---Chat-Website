@@ -1,5 +1,5 @@
 import React from "react";
-import ChatPage from "./components/chatPage_comp/chatPage_comp";
+import ChatPage from "./components/chatPage_comp";
 
 function MainApp () {
     return (
